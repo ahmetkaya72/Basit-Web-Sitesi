@@ -54,13 +54,7 @@ line-height: 80px;
     font-family: Roboto;
 }
 
-.novber ul li a.active,
-.novber ul li a:hover{
-    background: #ff6e00;
-    border-radius: 2px;
-    transition: .5s;
 
-}
 
 .container .center{
 position:absolute;
